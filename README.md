@@ -8,7 +8,9 @@
   Stack
 </h2>
 <p>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
   
 </p>
 
