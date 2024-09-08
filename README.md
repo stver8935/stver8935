@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=writing...&fontSize=90&animation=fadeIn" />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stver8935&show_icons=true)
-
 <h2>
   Introduce
 </h2>
@@ -40,3 +38,9 @@
     <img src="https://img.shields.io/badge/Tistory-FF7700?logo=tistory&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
+
+<h2>
+  Status
+</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stver8935&show_icons=true)
