@@ -1,8 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=writing...&fontSize=90&animation=fadeIn" />
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stver8935&show_icons=true)
+
 <h2>
-  
+  Introduce
 </h2>
+<p>
+  ----
+</p>
 
 <h2>
   Stack
