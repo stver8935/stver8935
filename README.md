@@ -8,8 +8,14 @@
   Stack
 </h2>
 <p>
+  
+  <img src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c++&logoColor=#00599C" />
+
+
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+  
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 
