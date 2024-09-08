@@ -23,11 +23,11 @@
   Contact Us
 </h2>
 <p>
-  <a href="/">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
   </a>
     
-  <a href="https://eventbus.tistory.com/">
+  <a href="https://eventbus.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF7700?logo=tistory&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
