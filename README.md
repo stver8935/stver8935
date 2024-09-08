@@ -12,7 +12,7 @@
   <a href="https://developer.android.com/?_gl=1*1jsjd2c*_up*MQ..&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-LWj8eo0EJJhpkFQTkCNHxJKUbaGjEDlZNOZeE-1ZUPQG-doDQMKwcaApyqEALw_wcB&gclsrc=aw.ds" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
   </a>
-
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge"/>
   
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
