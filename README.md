@@ -13,5 +13,5 @@
 </p>
 
 <h2>
-  Contract Us
+  Contact Us
 </h2>
